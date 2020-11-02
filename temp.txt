@@ -1,0 +1,8 @@
+Hej
+Mitt namn är Valdemar Johannesson, 26 år, från Malmö i Sverige.
+Som person är jag glad, problemlösare, gillar att arbeta i grupp för att nå ett gemensamt mål.
+Jag har en bachelor i Systemvetenskap från LTU i Sverige, och studerar just nu en Master inom Informationssäkerhet på samma universitet men 100% distans.
+När jag inte jobbar eller studerar så gillar jag att arbeta med automationsprojekt inom web automation, främst med arbetssättet test driven development tillsammans med kanban-konceptet.
+Jag har erfarenhet att arbeta med olika Javascript frameworks såsom nodejs, reactjs/ts, men även andra språk och hjälpmedel som puppeteer, python, samt diverse olika databashanteringssystem.
+Projekt som jag har arbetat med är: parkeringssystem för privatpersoner (Airbnb for parking), bokningssystem för tvättstugor.
+Om jag låter som en intressant person, så tveka inte att ringa mig!

@@ -1,0 +1,62 @@
+[
+    {
+        "category": "Bil, kjøretøy og verksted",
+        "linkId": "industry-16"
+    },
+    {
+        "category": "Butikk og varehandel",
+        "linkId": "industry-3"
+    },
+    {
+        "category": "Bygg og anlegg",
+        "linkId": "industry-4"
+    },
+    {
+        "category": "Forskning, utdanning og vitenskap",
+        "linkId": "industry-22"
+    },
+    {
+        "category": "Helse og omsorg",
+        "linkId": "industry-26"
+    },
+    {
+        "category": "Håndverkstjenester",
+        "linkId": "industry-29"
+    },
+    {
+        "category": "Industri og produksjon",
+        "linkId": "industry-70"
+    },
+    {
+        "category": "IT",
+        "linkId": "industry-65"
+    },
+    {
+        "category": "IT - programvare",
+        "linkId": "industry-8"
+    },
+    {
+        "category": "Konsulent og rådgivning",
+        "linkId": "industry-34"
+    },
+    {
+        "category": "Offentlig administrasjon",
+        "linkId": "industry-66"
+    },
+    {
+        "category": "Olje og gass",
+        "linkId": "industry-46"
+    },
+    {
+        "category": "Transport og logistikk",
+        "linkId": "industry-59"
+    },
+    {
+        "category": "Økonomi og regnskap",
+        "linkId": "industry-64"
+    },
+    {
+        "category": "Annet",
+        "linkId": "industry-9999"
+    }
+]
