@@ -1,8 +1,5 @@
 const puppeteer = require('puppeteer-extra');
-const JobsModel = require("./test.model");
-const mongoose = require("mongoose");
-const csv = require('csv-parser');
-const fs = require('fs');
+
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 
 (async () => {
@@ -13,7 +10,6 @@ const createCsvWriter = require('csv-writer').createObjectCsvWriter;
     puppeteer.use(AdblockerPlugin())
     const browser = await puppeteer.launch({
         headless: true,
-        executablePath: 'C:/Program Files (x86)/Google/Chrome/Application/chrome.exe',
         args: ['--start-maximized'],
         'ignoreHTTPSErrors': true
     });

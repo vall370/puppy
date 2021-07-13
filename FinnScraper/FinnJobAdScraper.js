@@ -14,9 +14,6 @@ const fs = require('fs').promises;
         concurrency: Cluster.CONCURRENCY_CONTEXT,
         maxConcurrency: 14,
         monitor: true,
-        puppeteerOptions: {
-            executablePath: '/opt/google/chrome/chrome'
-        }
     });
     var test2 = [];
 
